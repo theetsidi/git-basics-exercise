@@ -1,0 +1,141 @@
+    1  ls 
+    2  cd desktop
+    3  ls
+    4  ls /
+    5  ls /
+    6  ls /
+    7  CD DESKTOP
+    8  cd desktop 
+    9  cd tsidi_code
+   10  pwd 
+   11  cd ..
+   12  mkdir new_dir
+   13  ls 
+   14  ls desktop
+   15  ls ..
+   16  ls ../desktop
+   17  cd..\..
+   18  cd..\..
+   19  cd.. ..
+   20  cd ..\ ..
+   21  cd ..\ ..\
+   22  cd ..\.. \
+   23  pwd 
+   24  cd tsidi_code
+   25  cd ..
+   26  cd tsidi_code
+   27  cd .. \.. \
+   28  cd .. \.. 
+   29  cd ..\ ..
+   30  cd .. / ..
+   31  cd .. /..
+   32  cd ../ ../
+   33  cd .. ..
+   34  cd ..
+   35  cd ..\..
+   36  cd .. cd..
+   37  cd tsidi_code
+   38  cd ../..
+   39  clear
+   40  cd desktop 
+   41  cd tsidi_code
+   42  cd ../..
+   43  cd home
+   44  cd /home
+   45  cd /
+   46  cd home
+   47  cd /home
+   48  man 
+   49  cd desktop
+   50  pwd
+   51  cd desktop
+   52  ls 
+   53  rmdir new_dir
+   54  rm -r new_directory
+   55  rm -r new_dir
+   56  cd desktop
+   57  git init 
+   58  cd desktop 
+   59  mkdir git-basic-exercises 
+   60  cd git-basic-exercises 
+   61  git init 
+   62  ls -a 
+   63  touch README.md
+   64  ls -a
+   65  git status
+   66  git log 
+   67  git add README.md
+   68  git status
+   69  git commit -m "initial commit 29-01-23"
+   70  git log 
+   71  q 
+   72  git q 
+   73  git config -e 
+   74  cd desktop 
+   75  git config user.name "theestidi"
+   76  git configure user.email "hellennkuna26@gmail.com"
+   77  git config user.email "hellennkuna26@gmail.com"
+   78  mkdir git-basic-exercises
+   79  cd git-basic-exercises 
+   80  git init 
+   81  ls -a 
+   82  touch README.md
+   83  git log 
+   84  git add README.me
+   85  git add README.md
+   86  git status 
+   87  git commit -m "initial commit 29-01-23"
+   88  nano README.md
+   89  cat README.md
+   90  git status
+   91  git commit -m "second commit 29-01-23"
+   92  git add README.md
+   93  git commit -m "second commit 29-01-23"
+   94  git config -global user.name "theetsidi"
+   95  git config --global user.name "theetsidi"
+   96  git config -global user.email hellennkuna26@gmail.com
+   97  git config --global user.email hellennkuna26@gmail.com
+   98  git config --global init.defaultBranch main
+   99  git config --list 
+  100  git config user.name 
+  101  cd desktop 
+  102  cd git-basic-exercises 
+  103  git commit -m "commit" 
+  104  git init 
+  105  git remote add origin https://github.com/theetsidi/git-basic-exercises.git
+  106  git branch -M main
+  107  git push -u origin main
+  108  cd desktop/git-basic-exercises 
+  109  git remote add origin https://github.com/theetsidi/git-basic-exercises.git
+  110  git push -u origin main
+  111  cd desktop 
+  112  mdkir git-basics-exercise 
+  113  mkdir git-basics-exercise 
+  114  cd git-basics-exercise 
+  115  git init 
+  116  git touch README.md 
+  117  touch README.md 
+  118  git nano README.md 
+  119  nano README.md 
+  120  git add README.md 
+  121  git commit -m "commit" 
+  122  git log 
+  123  git status 
+  124  cat README.md 
+  125  git log 
+  126  git checkout df4c0da58ec13cd88407caa239e3fbb96243b289
+  127  git checkout main 
+  128  cat README.md 
+  129  git branch 
+  130  git branch milkshake-flavours
+  131  git branch 
+  132  git checkout milkshake-flavours 
+  133  nano milkshakes.md 
+  134  git status 
+  135  git add milkshakes.md
+  136  git commit -m "added intitial flavours"
+  137  git checkout main 
+  138  git branch history 
+  139  git log 
+  140  git branch 
+  141  history > history.txt
